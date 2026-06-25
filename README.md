@@ -13,10 +13,9 @@
 
 ## Öğrenci Bilgileri
 
-|**Öğrenci**|Metin Mutlu|
-|-|-|
-|**Öğrenci Numarası**|132230127|
-|**Ders**|Python ile Veri Bilimi|
+Metin Mutlu<br>
+Öğrenci Numarası: 132230127<br>
+Ders: Python ile Veri Bilimi
 
 \---
 
