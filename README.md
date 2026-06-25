@@ -45,7 +45,7 @@ Kaggle platformunda [Sakshi Goyal](https://www.kaggle.com/datasets/sakshigoyal7/
 * **Churn oranı:** %16.1 (sınıf dengesizliği mevcut)
 
 > BankChurners.csv ve enflasyon.csv repoya eklenmiştir. Alternatif erişim için Drive linki:  
-> \*\*https://drive.google.com/drive/folders/1urzrx-bEbJb-aHDbIK91vUf4Y8VdDKOd?usp=drive\_link\*\*
+> https://drive.google.com/drive/folders/1urzrx-bEbJb-aHDbIK91vUf4Y8VdDKOd
 
 ### 2\. enflasyon.csv (TCMB Verileri)
 
