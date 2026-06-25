@@ -141,7 +141,7 @@ kredi-karti-churn-analizi/
 ├── data/
 │   ├── enflasyon.csv         # TCMB 2016-2021 TÜFE verileri (6 satır)
 │   └── BankChurners.csv      # Ana veri seti — Kaggle (10.127 müşteri)
-└── gorseller/
+└── grafikler/
     ├── eda\_gorsel.png
     ├── korelasyon.png
     ├── feature\_engineering.png
